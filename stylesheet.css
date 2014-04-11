@@ -9,7 +9,6 @@
 		width:1000px;
 		background-color:#31ff63;
 		margin:auto;
-		position:absolute;
 }
 
 
@@ -19,11 +18,9 @@
 		background-color:#ffffce;
 		float:left;
 		display:inline-block;
-		position:absolute;
 }
 .right{
 		float:right;
-		position:absolute;
 }
 
 #footer{
@@ -32,17 +29,9 @@
 		background-color:#31ff63;
 		margin:auto;
 		clear:both;
-		position:absolute;
 }
 
 a{
 	text-decoration:none;
 	float:right;
-}
-body>div{
-	height:1000px;
-	width:1000px;
-	background-color:#ffcdcd;
-	margin:auto;
-	position:relative;
 }
