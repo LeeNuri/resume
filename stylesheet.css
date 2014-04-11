@@ -19,7 +19,7 @@
 		float:left;
 		display:inline-block;
 }
-img{
+.right{
 		float:right;
 }
 
@@ -29,7 +29,6 @@ img{
 		background-color:#31ff63;
 		margin:auto;
 		clear:both;
-		padding:auto;
 }
 
 a{
