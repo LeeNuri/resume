@@ -1,0 +1,44 @@
+*{
+	font-family :Times;
+	font-size:15px;
+}
+
+body>div{
+			height:1050px;
+			width:1050px;
+			color:#ffffff;
+			margin:auto;
+			position:relative;
+}
+
+#header{
+		height:100px;
+		width:1000px;
+		color:#31ff63;
+		margin:auto;
+		position:absolute;
+}
+
+.left{
+		height:500px;
+		width:500px;
+		color:#ffffce;
+		margin-top:150px;
+		position:absolute;
+		float:left;
+}
+.right{
+		float:right;
+		margin-top:150px;
+		position:absolute;
+}
+
+#footer{
+		height:100px;
+		width:1000px;
+		color:##31ff63;
+		margin:auto;
+		clear:both;
+		margin-bottom:10px;
+		position:absolute;
+}
