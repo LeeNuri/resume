@@ -19,13 +19,13 @@
 		background-color:#ffffce;
 		float:left;
 		display:inline-block;
-		margin-left:100px;
+		margin-left:150px;
 }
 .right{
 		float:right;
 		height:300px;
-		width:400px;
-		margin-right:100px;
+		width:300px;
+		margin-right:150px;
 }
 
 #footer{
