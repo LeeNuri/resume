@@ -16,8 +16,8 @@
 		height:500px;
 		width:500px;
 		background-color:#ffffce;
-		margin-top:150px;
 		float:left;
+		display:inline-block;
 }
 .right{
 		float:right;
