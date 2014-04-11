@@ -9,7 +9,6 @@
 		width:1000px;
 		color:#31ff63;
 		margin:auto;
-		position:absolute;
 }
 
 
@@ -18,13 +17,11 @@
 		width:500px;
 		color:#ffffce;
 		margin-top:150px;
-		position:absolute;
 		float:left;
 }
 .right{
 		float:right;
 		margin-top:150px;
-		position:absolute;
 }
 
 #footer{
@@ -34,7 +31,6 @@
 		margin:auto;
 		clear:both;
 		margin-bottom:10px;
-		position:absolute;
 }
 
 a{
