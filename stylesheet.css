@@ -19,9 +19,8 @@
 		float:left;
 		display:inline-block;
 }
-.right{
+img{
 		float:right;
-		margin-top:150px;
 }
 
 #footer{
@@ -30,6 +29,7 @@
 		background-color:#31ff63;
 		margin:auto;
 		clear:both;
+		padding:auto;
 }
 
 a{
