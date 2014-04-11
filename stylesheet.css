@@ -36,9 +36,14 @@ body>div{
 #footer{
 		height:100px;
 		width:1000px;
-		color:##31ff63;
+		color:#31ff63;
 		margin:auto;
 		clear:both;
 		margin-bottom:10px;
 		position:absolute;
+}
+
+a{
+	text-align:right;
+	text-decoration:none;
 }
